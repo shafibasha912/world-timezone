@@ -33,7 +33,7 @@
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimezone-service</applicationName>
+						<applicationName>thisworldtimezone-service</applicationName>
 						<password>Shafi@91912</password>
 						<muleVersion>4.2.1</muleVersion>
 						
